@@ -1,6 +1,9 @@
 # Nomfilx
 Learning React and ES6 by building a Movie Discovery App.
 
+## Deployment
+<a href='https://app.netlify.com/sites/elastic-allen-ed4eb4/overview'>https://app.netlify.com/sites/elastic-allen-ed4eb4/overview</a>
+
 ## Screens
 - [x] Home
 - [x] Movies
