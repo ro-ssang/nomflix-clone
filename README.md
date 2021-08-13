@@ -2,7 +2,7 @@
 Learning React and ES6 by building a Movie Discovery App.
 
 ## Deployment
-<a href="https://app.netlify.com/sites/elastic-allen-ed4eb4">View Site</a>
+<a href="https://elastic-allen-ed4eb4.netlify.app/#/">View Site</a>
 
 ## Screens
 - [x] Home
